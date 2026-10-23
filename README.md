@@ -113,6 +113,13 @@ the protocol.
 0.3.0. Verification only. The crate forbids unsafe code and denies missing
 documentation.
 
+## Related implementations
+
+- **TypeScript SDK**: https://www.npmjs.com/package/agent-passport-system ([repo](https://github.com/agent-passport-system/agent-passport-system))
+- **Python SDK**: https://pypi.org/project/agent-passport-system/ ([repo](https://github.com/agent-passport-system/agent-passport-python))
+- **Go SDK**: https://pkg.go.dev/github.com/aeoess/agent-passport-go ([repo](https://github.com/agent-passport-system/agent-passport-go))
+- **MCP Server**: https://www.npmjs.com/package/agent-passport-system-mcp ([repo](https://github.com/agent-passport-system/agent-passport-mcp))
+
 ## License
 
 Apache-2.0. Copyright Tymofii Pidlisnyi (Agent Passport System).
